@@ -1,10 +1,10 @@
-# 冰锐操作系统
+# Bingrui Operating System
 
 #### Description
-水滴实验室自主研发的国产计算机/平板/手机操作系统
+Developed by WaterDrop Lab independently.
 
 #### Software Architecture
-Software architecture description
+Based on Linux
 
 #### Installation
 
