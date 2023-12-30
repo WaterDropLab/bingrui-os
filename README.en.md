@@ -1,4 +1,13 @@
 # Bingrui Operating System
+####We have a dream
+We have a dream of building our own system. BingruiOS is a self-developed system imagined by our Water Drop Laboratory, aimed at creating convenient mobile phones (tablets) and computer systems for the Chinese people, and may even achieve connectivity with all things in the future
+The system colors are mainly natural colors, without pursuing bright UI trends or renovating outdated retro styles. We only create a unique style that belongs to our water droplets, allowing customers to feel a sense of intimacy with nature when using it.
+In terms of future requirements for the system, there will be no shortage of arms and legs in terms of functionality; The overall performance and appearance need to be balanced... Therefore, the design cost may be higher and the development difficulty may be greater. But we sharpen our swords for ten years, not pursuing speed, not casually showing off semi-finished products to others, and focusing on creating a natural system that integrates people and things.
+Considering that everyone has important tasks to attend to, in recent years, we have temporarily put aside the matter of creating a system. When we have time, our water droplet team will wholeheartedly do it well, let the system shine, and let us show off our brilliance!
+That's all for the nonsense. Below are the desktop and settings for tablet (mobile) devices; Please take a look at the sketch of the desktop and settings on the computer side
+! [Sketch] (readme/imgs-2501eb4de11a2e5f. jpg)
+! [Sketch] (readme/imgs-29439d46888ad672. jpg)
+! [Sketch] (readme/imgs-4fa16af920b87080. jpg)
 
 #### Description
 Developed by WaterDrop Lab independently.
