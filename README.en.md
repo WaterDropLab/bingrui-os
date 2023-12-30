@@ -4,7 +4,7 @@
 Developed by WaterDrop Lab independently.
 
 #### Software Architecture
-Based on Linux
+Based on Linux.
 
 #### Installation
 
